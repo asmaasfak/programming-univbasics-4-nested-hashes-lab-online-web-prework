@@ -37,7 +37,7 @@ def alan_kay_is_known_for
           :languages => ["C"]
         }
      }
-     p programmer_hash[:alan_kay][:known_for]
+     p programmer_hash[:grace_hopper][:known_for]
 end
 
 def dennis_ritchies_language
